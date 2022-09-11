@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sistema</string>
+    <string name="titulo_form_cadastro">Cadastre-se</string>
+    <string name="titulo_form_login">Login</string>
+    <string name="titulo_form_telaprincipal">Olá Cpanshoes!</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="texto_botao_cadastrar">Cadastre-se</string>
+    <string name="texto_botao_entrar">Entrar</string>
+    <string name="texto_botao_sair">Sair</string>
+    <string name="texto_painel">Não tem uma conta?</string>
+    <string name="painel_cadastro">Clique aqui</string>
+    <string name="painel_telaprincipal">Seu acesso foi registrado com sucesso!</string>
+    <string name="painel_saibamais">Seja bem-vindo!</string>
+
+</resources>
